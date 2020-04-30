@@ -1,9 +1,9 @@
 # pensComp
 
-##Grau A:
+## Grau A:
 Desenvolvimento de Jogos Analógicos:
 
-###2020.1.23 - Pens. Comp. SL
+### 2020.1.23 - Pens. Comp. SL
 * Grupo A - Corona Game
 * Grupo B - RPG Neo R’lyeh
 * Grupo C - [vazio proposital]
@@ -12,10 +12,10 @@ Desenvolvimento de Jogos Analógicos:
 * Grupo F - O Escândalo
 
 
-###2020.1.33 - Pens. Comp. POA
+### 2020.1.33 - Pens. Comp. POA
 Grupo A
 
 
 
 
-###2020.1.52 - Pens. Comp. POA
+### 2020.1.52 - Pens. Comp. POA
