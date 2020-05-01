@@ -1,4 +1,5 @@
-# pensComp
+# Esta página reúne os trabalhos produzidos pelas turmas de Pensamento Computacional da Unisinos, no primeiro semestre desse ano: 2020.1.
+Prof. Fernando Krum.
 
 ## Grau A:
 Desenvolvimento de Jogos Analógicos:
