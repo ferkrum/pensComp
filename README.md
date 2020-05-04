@@ -5,7 +5,7 @@ Prof. Fernando Krum.
 Desenvolvimento de Jogos Analógicos:
 
 ### 2020.1.23 - Pens. Comp. SL
-* Grupo A - Corona Game. [vídeo de apresentação](https://youtu.be/wLLTBRqdm8Q) 
+* Grupo A - Corona Game. [vídeo de apresentação](https://youtu.be/wLLTBRqdm8Q). [PDF's](/Grau A/Grupo A/).
 * Grupo B - RPG Neo R’lyeh. [vídeo de apresentação](https://youtu.be/CT1TaBh47y4)
 * Grupo C - _comentário: "pulamos" o grupo C, no total são 5 grupos. :-)_
 * Grupo D - #testaconhecimento. [vídeo de apresentação](https://youtu.be/22J26KAQVK4)
