@@ -1,5 +1,5 @@
 # Esta página reúne os trabalhos produzidos na Atividade Acadêmica (AA) de Pensamento Computacional (P.C.):
-Prof. Fernando Krum.
+Prof. Fernando Krum (fkrum@unisinos.br).
 
 
 ## Turmas de 2020.1:
