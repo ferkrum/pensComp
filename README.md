@@ -1,8 +1,9 @@
-# Esta página reúne os trabalhos produzidos pelas turmas de Pensamento Computacional da Unisinos, no primeiro semestre, 2020.1.
+# Esta página reúne os trabalhos produzidos na Atividade Acadêmica (AA) de Pensamento Computacional (P.C.):
 Prof. Fernando Krum.
 
-## Grau A:
-Desenvolvimento de Jogos Analógicos:
+
+## Turmas de 2020.1:
+Grau A: Desenvolvimento de Jogos Analógicos.
 
 ### 2020.1.23 - Pens. Comp. SL
 * Grupo A - Corona Game. [vídeo de apresentação](https://youtu.be/wLLTBRqdm8Q). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20A).
