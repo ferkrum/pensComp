@@ -15,7 +15,7 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 
 
 ### 2020.1.33 - Pens. Comp. POA
-* Grupo A - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
+<* Grupo A - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
 * Grupo B - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20B).
 * Grupo C - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20C).
 * Grupo D - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20D).
@@ -24,7 +24,7 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo G - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20G).
 * Grupo H - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20H).
 * Grupo I - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20I).
-* Grupo J - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).
+* Grupo J - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).>
 
 ### 2020.1.52 - Pens. Comp. POA
 * Grupo A - Coroninha. [vídeo de apresentação](https://youtu.be/--hYkFFmVP4) 
