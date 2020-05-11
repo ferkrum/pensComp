@@ -28,10 +28,10 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 -->
 
 ### 2020.1.52 - Pens. Comp. POA
-* Grupo A - Coroninha. [vídeo de apresentação](https://youtu.be/--hYkFFmVP4) 
-* Grupo B - Dados e Desafios. [vídeo de apresentação](https://youtu.be/tHRIFUkQWC4) 
-* Grupo C - Traçando Melhores Caminhos. [vídeo de apresentação](https://youtu.be/p7z_RmIIOxs) 
-* Grupo D - O caminho da quarentena. [vídeo de apresentação](https://youtu.be/DVMGkXpK5aI) 
-* Grupo E - PandeVid Medieval. [vídeo de apresentação-*1](https://youtu.be/dzjTIBk_UWg) 
+* Grupo A - Coroninha. [vídeo de apresentação](https://youtu.be/--hYkFFmVP4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/Grau%20A/Grupo%20A). 
+* Grupo B - Dados e Desafios. [vídeo de apresentação](https://youtu.be/tHRIFUkQWC4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/Grau%20A/Grupo%20B).  
+* Grupo C - Traçando Melhores Caminhos. [vídeo de apresentação](https://youtu.be/p7z_RmIIOxs) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/Grau%20A/Grupo%20C).  
+* Grupo D - O caminho da quarentena. [vídeo de apresentação](https://youtu.be/DVMGkXpK5aI) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/Grau%20A/Grupo%20D).  
+* Grupo E - PandeVid Medieval. [vídeo de apresentação-*1](https://youtu.be/dzjTIBk_UWg) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/Grau%20A/Grupo%20E).  
 
 *1 será alterado
