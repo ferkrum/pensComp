@@ -32,4 +32,6 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo B - Dados e Desafios. [vídeo de apresentação](https://youtu.be/tHRIFUkQWC4) 
 * Grupo C - Traçando Melhores Caminhos. [vídeo de apresentação](https://youtu.be/p7z_RmIIOxs) 
 * Grupo D - O caminho da quarentena. [vídeo de apresentação](https://youtu.be/DVMGkXpK5aI) 
-* Grupo E - PandeVid Medieval. [vídeo de apresentação](https://youtu.be/dzjTIBk_UWg) 
+* Grupo E - PandeVid Medieval. [vídeo de apresentação-*1](https://youtu.be/dzjTIBk_UWg) 
+
+*1 será alterado
