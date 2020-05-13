@@ -14,16 +14,16 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo F - O Escândalo. [vídeo de apresentação](https://youtu.be/W_hrYjmY8bM) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20F).
 
 ### 2020.1.33 - Pens. Comp. POA
- * Grupo A - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
-* Grupo B - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20B).
-* Grupo C - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20C).
-* Grupo D - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20D).
-* Grupo E - Nome do jogo. [vídeo de apresentação](https://youtu.be/g9z6GDz3l7I). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20E).
-* Grupo F - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20F).
-* Grupo G - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20G).
-* Grupo H - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20H).
-* Grupo I - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20I).
-* Grupo J - Nome do jogo. [vídeo de apresentação](). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).
+ * Grupo A - Jogo da Memória Covid-19. [vídeo de apresentação](https://youtu.be/Y3Ebal1-DxE). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
+* Grupo B - 
+* Grupo C - Cook for me. [vídeo de apresentação](https://youtu.be/COtl0kDkJr8). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20C).
+* Grupo D - Jogo de memória sobre o Corona Vírus para Crianças. [vídeo de apresentação](https://youtu.be/eL0dC-fp8DU). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20D).
+* Grupo E - World Cup for Dummies. [vídeo de apresentação](https://youtu.be/g9z6GDz3l7I). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20E).
+* Grupo F - PandeGame. [vídeo de apresentação](https://youtu.be/36VyoWxAdDk). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20F).
+* Grupo G - Corona Battle. [vídeo de apresentação](https://youtu.be/C4AW7aA8HPY). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20G).
+* Grupo H - 
+* Grupo I - Maravilha. [vídeo de apresentação](https://youtu.be/m8KXRqI_Yzo). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20I).
+* Grupo J - War Plage. [vídeo de apresentação](https://youtu.be/MlY53WAe07s). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).
 
 <!-- 
 ### 2020.1.52 - Pens. Comp. POA
