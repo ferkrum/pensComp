@@ -27,7 +27,6 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo J - War Plage. [vídeo de apresentação](https://youtu.be/MlY53WAe07s). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).
 
 
-<!-- 
 ### 2020.1.52 - Pens. Comp. POA
 * Grupo A - Coroninha. [vídeo de apresentação](https://youtu.be/--hYkFFmVP4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/grau%20A/grupo%20A). 
 * Grupo B - Dados e Desafios. [vídeo de apresentação](https://youtu.be/tHRIFUkQWC4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/grau%20A/grupo%20B).  
@@ -37,4 +36,4 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 
 *1 será alterado
 
--->
+
