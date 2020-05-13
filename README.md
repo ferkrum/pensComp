@@ -13,7 +13,7 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo E - Algonário. [vídeo de apresentação](https://www.youtube.com/watch?v=e4DKGwkhPAg&feature=youtu.be) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20E).
 * Grupo F - O Escândalo. [vídeo de apresentação](https://youtu.be/W_hrYjmY8bM) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20F).
 
-
+<!--
 ### 2020.1.33 - Pens. Comp. POA
  * Grupo A - Jogo da Memória Covid-19. [vídeo de apresentação](https://youtu.be/Y3Ebal1-DxE). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
 * Grupo B - 
