@@ -9,9 +9,16 @@
 * [V04 - Salvando e compartilhando projetos](https://www.loom.com/share/f3e69749d281487592d85460d73e6e5a)
 * [V05 - Condicionais no Snap (Condicional "SE")](https://www.loom.com/share/2c328d9a0e8b4db0a7d036678f91b320)
 * [V05b - Condicionais no Snap (Macaco Calculador)](https://www.loom.com/share/dd408ce8e6ec448db9efa4123d1a84a4) 
+* [V06 - Contando com Estruturas de repetição)](https://www.loom.com/share/88d65ca431ea41ed9ef655dafd564435)
+* [V06b - Estruturas de Repetição e Desenho](https://www.loom.com/share/9df480dc79894520afdb21d214d384b0)
+* [V07 - Estruturas de Repetição (Repita até, repita enquanto, for)](https://www.loom.com/share/fe092071093d4026ab33f896e3e5517e)
+* [V08 - Estruturas de repetição, exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340) 
 
 
-####FAQ
+
+
+
+###FAQ
 
 * [Q01 - Exportando links e compartilhando com colegas](https://www.loom.com/share/9a29560c37e04f839007ae556f50f627)
 * [Q02 O meu link vai funcionar?](https://www.loom.com/share/a024b12c52f542e9a07ffbaef8b1b1b9)
