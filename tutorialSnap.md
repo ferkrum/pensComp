@@ -1,6 +1,4 @@
-### Tutorial de Snap! no Pensamento Computacional
-
-
+# Tutorial de Snap! no Pensamento Computacional
 
 * [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
 * [V02 - Apresentando espaço e blocos do Snap!](https://www.loom.com/share/2542f5386b154cc9bfc48148d64b248e)
@@ -15,10 +13,8 @@
 * [V08 - Estruturas de repetição, exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340) 
 
 
-
-
-
-###FAQ
+FAQ
+----------------
 
 * [Q01 - Exportando links e compartilhando com colegas](https://www.loom.com/share/9a29560c37e04f839007ae556f50f627)
 * [Q02 - O meu link vai funcionar?](https://www.loom.com/share/a024b12c52f542e9a07ffbaef8b1b1b9)
