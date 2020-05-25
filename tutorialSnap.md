@@ -10,7 +10,7 @@
 * [V06 - Contando com Estruturas de repetição)](https://www.loom.com/share/88d65ca431ea41ed9ef655dafd564435)
   * [V06b - Estruturas de Repetição e Desenho](https://www.loom.com/share/9df480dc79894520afdb21d214d384b0)
   * [V06c - Estruturas de Repetição (Repita até, repita enquanto, for)](https://www.loom.com/share/fe092071093d4026ab33f896e3e5517e)
-* [V07 - Estruturas de repetição, exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340) 
+  * [V06d - Exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340) 
 
 
 FAQ
