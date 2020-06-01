@@ -17,7 +17,9 @@ FAQ
 ----------------
 
 * [Q01 - Exportando links e compartilhando com colegas](https://www.loom.com/share/9a29560c37e04f839007ae556f50f627)
-* [Q02 - O meu link vai funcionar? (Moodle Unisinos)](https://www.loom.com/share/a024b12c52f542e9a07ffbaef8b1b1b9)
-* [Q03 - Os meus envios foram enviados corretamente no Moodle?](https://www.loom.com/share/4b5f6e1e98e343a0a31542ac4a1b373f)
+* [Q02 - O meu link vai funcionar? (M.U.* )](https://www.loom.com/share/a024b12c52f542e9a07ffbaef8b1b1b9)
+* [Q03 - Os meus envios foram enviados corretamente no Moodle? M.U.* ](https://www.loom.com/share/4b5f6e1e98e343a0a31542ac4a1b373f)
 * [Q04 - Rodando Snap! Local (para quando há problemas de conexão com internet)](https://www.loom.com/share/bcfb378ba7054a4794bf4c27a2123872)
 
+
+_* M.U. = Específico para as aulas da Unisinos.
