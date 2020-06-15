@@ -11,6 +11,18 @@
   * [V06b - Estruturas de Repetição e Desenho](https://www.loom.com/share/9df480dc79894520afdb21d214d384b0)
   * [V06c - Estruturas de Repetição (Repita até, repita enquanto, for)](https://www.loom.com/share/fe092071093d4026ab33f896e3e5517e)
   * [V06d - Exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340)
+* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (1/3)](https://www.loom.com/share/be09ffbcc5964746aa16bfcda5a7bf93)
+* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (2/3)](https://www.loom.com/share/5259af7a13c7441091280234c07acb7e)
+* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3)](https://www.loom.com/share/6c4c761183fa411598e8b81fa244ca9c)
+* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3) REVISITADO](https://www.loom.com/share/52930798e1504fb1914ae5b9c17f1898)
+* [Snap! Vídeo 07 - Repetição e Condicionais para criar animações](https://www.loom.com/share/353bca40c7a9433ab1cb6c7b1f5b0135)
+* [Pens. Comp./Unisinos Revisão S14 e Intro às Listas](https://www.loom.com/share/4ec21f9e23a44a8fb2f4a09fe8d9b96d)
+* [Snap! Video 08 - Introdução às Listas no Snap!](https://www.loom.com/share/506b711e47c04a8792a88c062f1c0c70)
+
+
+
+
+
 
 
 FAQ
@@ -20,6 +32,7 @@ FAQ
 * [Q02 - O meu link vai funcionar? (M.U.* )](https://www.loom.com/share/a024b12c52f542e9a07ffbaef8b1b1b9)
 * [Q03 - Os meus envios foram enviados corretamente no Moodle? M.U.* ](https://www.loom.com/share/4b5f6e1e98e343a0a31542ac4a1b373f)
 * [Q04 - Rodando Snap! Local (para quando há problemas de conexão com internet)](https://www.loom.com/share/bcfb378ba7054a4794bf4c27a2123872)
+* [Q05 - Repetições Exercício "Menor e Maior Nota"](https://www.loom.com/share/e04df8e8c0a44390a2e68342295e5ba5)
 
 
 _* M.U. = Específico para as aulas da Unisinos.
