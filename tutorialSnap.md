@@ -11,14 +11,19 @@
   * [V06b - Estruturas de Repetição e Desenho](https://www.loom.com/share/9df480dc79894520afdb21d214d384b0)
   * [V06c - Estruturas de Repetição (Repita até, repita enquanto, for)](https://www.loom.com/share/fe092071093d4026ab33f896e3e5517e)
   * [V06d - Exemplo: cálculo de média de produtos usando repetição](https://www.loom.com/share/712117844a0141f79bba772e55c27340)
-* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (1/3)](https://www.loom.com/share/be09ffbcc5964746aa16bfcda5a7bf93)
-* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (2/3)](https://www.loom.com/share/5259af7a13c7441091280234c07acb7e)
-* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3)](https://www.loom.com/share/6c4c761183fa411598e8b81fa244ca9c)
-* [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3) REVISITADO](https://www.loom.com/share/52930798e1504fb1914ae5b9c17f1898)
-* [Snap! Vídeo 07 - Repetição e Condicionais para criar animações](https://www.loom.com/share/353bca40c7a9433ab1cb6c7b1f5b0135)
+* Pens. Comp./Unisinos Snap! 4 Pilares Pens. Comp.
+  * [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (1/3)](https://www.loom.com/share/be09ffbcc5964746aa16bfcda5a7bf93)
+  * [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (2/3)](https://www.loom.com/share/5259af7a13c7441091280234c07acb7e)
+  * [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3)](https://www.loom.com/share/6c4c761183fa411598e8b81fa244ca9c)
+  * [Pens. Comp./Unisinos Snap! + 4 Pilares Pens. Comp. (3/3) REVISITADO](https://www.loom.com/share/52930798e1504fb1914ae5b9c17f1898)
+* [V07 - Repetição e Condicionais para criar animações](https://www.loom.com/share/353bca40c7a9433ab1cb6c7b1f5b0135)
 * [Pens. Comp./Unisinos Revisão S14 e Intro às Listas](https://www.loom.com/share/4ec21f9e23a44a8fb2f4a09fe8d9b96d)
-* [Snap! Video 08 - Introdução às Listas no Snap!](https://www.loom.com/share/506b711e47c04a8792a88c062f1c0c70)
+* [V08 - Introdução às Listas no Snap!](https://www.loom.com/share/506b711e47c04a8792a88c062f1c0c70)
 
+Sobre Projeto do Grau B: 
+* [2020.1.52/Pens. Comp. S15 - Sobre projeto do grau B e outros](https://www.loom.com/share/5e7aebdc2af0486f99f55dcaf8a0ec30)
+
+* [V09 - Documentação de seus Projetos com Comentários e Notas](https://www.loom.com/share/6431f8da53f64cdc95046b1e06c18069)
 
 
 
