@@ -19,10 +19,7 @@
 * [V07 - Repetição e Condicionais para criar animações](https://www.loom.com/share/353bca40c7a9433ab1cb6c7b1f5b0135)
 * [Pens. Comp./Unisinos Revisão S14 e Intro às Listas](https://www.loom.com/share/4ec21f9e23a44a8fb2f4a09fe8d9b96d)
 * [V08 - Introdução às Listas no Snap!](https://www.loom.com/share/506b711e47c04a8792a88c062f1c0c70)
-
-Sobre Projeto do Grau B: 
-* [2020.1.52/Pens. Comp. S15 - Sobre projeto do grau B e outros](https://www.loom.com/share/5e7aebdc2af0486f99f55dcaf8a0ec30)
-
+* **Sobre Projeto do Grau B:** [2020.1.52/Pens. Comp. S15 - Sobre projeto do grau B e outros](https://www.loom.com/share/5e7aebdc2af0486f99f55dcaf8a0ec30)
 * [V09 - Documentação de seus Projetos com Comentários e Notas](https://www.loom.com/share/6431f8da53f64cdc95046b1e06c18069)
 
 
