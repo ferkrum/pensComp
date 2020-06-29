@@ -3,9 +3,9 @@ Prof. Fernando Krum (fkrum@unisinos.br).
 
 
 ## Turmas de 2020.1:
-Grau A: Desenvolvimento de Jogos Analógicos.
+### Grau A: Desenvolvimento de Jogos Analógicos.
 
-### 2020.1.23 - Pens. Comp. SL
+#### 2020.1.23 - Pens. Comp. SL
 * Grupo A - Corona Game. [vídeo de apresentação](https://youtu.be/wLLTBRqdm8Q). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20A).
 * Grupo B - RPG Neo R’lyeh. [vídeo de apresentação](https://youtu.be/CT1TaBh47y4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20B).
 * Grupo C - _comentário: "pulamos" o grupo C, no total são 5 grupos. :-)_
@@ -14,7 +14,7 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo F - O Escândalo. [vídeo de apresentação](https://youtu.be/W_hrYjmY8bM) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.23/Grau%20A/Grupo%20F).
 
 
-### 2020.1.33 - Pens. Comp. POA
+#### 2020.1.33 - Pens. Comp. POA
  * Grupo A - Jogo da Memória Covid-19. [vídeo de apresentação](https://youtu.be/Y3Ebal1-DxE). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20A).
 * Grupo B - 
 * Grupo C - Cook for me. [vídeo de apresentação](https://youtu.be/COtl0kDkJr8). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20C).
@@ -27,7 +27,7 @@ Grau A: Desenvolvimento de Jogos Analógicos.
 * Grupo J - War Plage. [vídeo de apresentação](https://youtu.be/MlY53WAe07s). | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.33/Grau%20A/Grupo%20J).
 
 
-### 2020.1.52 - Pens. Comp. POA
+#### 2020.1.52 - Pens. Comp. POA
 * Grupo A - Coroninha. [vídeo de apresentação](https://youtu.be/--hYkFFmVP4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/grau%20A/grupo%20A). 
 * Grupo B - Dados e Desafios. [vídeo de apresentação](https://youtu.be/tHRIFUkQWC4) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/grau%20A/grupo%20B).  
 * Grupo C - Traçando Melhores Caminhos. [vídeo de apresentação](https://youtu.be/p7z_RmIIOxs) | [PDF's](https://github.com/ferkrum/pensComp/tree/master/2020.1.52/grau%20A/grupo%20C).  
