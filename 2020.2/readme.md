@@ -7,6 +7,64 @@
 
 
 
+### 2020.2.52
+
+Projetos do Grau A:
+
+1. Grupo 1: "O Labirinto".
+  * [Vídeo apresentação](https://www.youtube.com/watch?v=Biv68rH_JgQ). 
+  * [Gameplay](https://www.youtube.com/watch?v=EJY9zdvjyq8).
+  * [Feedbacks colegas](https://forms.gle/CMWQ4FGTeK7utJsx9).  
+*Mito labirinto do Minotauro.*
+
+2. **Grupo 2: "Coma Bem".** 
+  * [Vídeo apresentação](https://www.youtube.com/watch?v=ZXNcLW1aZjU&feature=youtu.be). 
+  * [Feedbacks colegas](https://docs.google.com/forms/d/e/1FAIpQLScXeIF-JcAanoYxJzmUm_O3rmQt7Cm4SqtzrDwhnnsZ__-I8A/viewform?usp=sf_link)  
+*Luci Paim, + colegas*
+
+3. Grupo 3: "The Climb".
+  * [Vídeo apresentação.](https://www.youtube.com/watch?v=ZXNcLW1aZjU&feature=youtu.be). 
+  * [Feedbacks colegas](https://forms.gle/CMWQ4FGTeK7utJsx9).Alunas da Psico.
+
+4. Grupo 4: "Tudo em 5 segundos"
+  * [Vídeo apresentação](https://www.youtube.com/watch?v=sNC9l1McBzg&feature=youtu.be). 
+  * 
+*Alunas da nutrição.*
+
+5. **Grupo 5: "Debateria".** | [Vídeo apresentação](https://www.youtube.com/watch?v=TYcl_AFP2OQ).  
+"debate entre dois assuntos, que sejam conflitantes entre si."  
+Observações: debata imitando a voz do google tradutor.
+
+6.  **Grupo 6: "Cara a Cara das Lives da Quarentena".** | [Vídeo apresentação](https://youtu.be/brQDWqK72cs). 
+
+7. **Grupo 7: "Jogo de Mímica".** | [Vídeo apresentação](https://youtu.be/znXnHZp8SkQ).  
+*Legal sobre a possibilidade de fazer a personalização do game removendo as cartas por cores ou por linhas.*
+
+8. **Grupo 8: "Tabuleiro Quiz".** | [Vídeo apresentação]().   
+*Não apresenta o jogo. Somente o gameplay.*
+
+9.  **Grupo 9: "Board Soccer".** | [Vídeo apresentação](https://youtu.be/dnpRz523mO4). 
+
+10.  **Grupo 10: "Biomas Brasileiros".** | [Vídeo apresentação](https://youtu.be/qhmJIVyiL4g). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Vídeo-tutoriais de Snap! no Pensamento Computacional
 
 * [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
