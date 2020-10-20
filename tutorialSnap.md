@@ -1,4 +1,4 @@
-## Vídeo-tutoriais de Snap! no Pensamento Computacional
+## Vídeo-tutoriais de Snap! no Pensamento Computacional - edição 2020.1
 
 * [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
 * [V02 - Apresentando espaço e blocos do Snap!](https://www.loom.com/share/2542f5386b154cc9bfc48148d64b248e)
