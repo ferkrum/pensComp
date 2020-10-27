@@ -27,7 +27,7 @@
 
 [2020.2/Pens. Comp. Revisão Primeiros passos Snap! + Um primeiro exercício](https://www.loom.com/share/daa17f9815074c95842c2fd8990cacda)
 
---
+<hr>
 
 ### "Zorba, um cofrinho brasileiro"
 (*[link para toda playlist de vídeos](https://loom.com/share/folder/4c785844b71f4678bb731948ca79f514)*)
@@ -92,7 +92,7 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	Teste alterando alguns parâmetros do algoritmo: elasticidade da cueca = 50%, ao invés de 30%.  
 	Simulando a situação real conforme citado[ na reportagem](https://g1.globo.com/rr/roraima/noticia/2020/10/15/senador-tinha-r-33-mil-na-cueca-delegado-desconfiou-ao-ver-volume-retangular-na-parte-traseira.ghtml).
 	
---
+<hr>
 	
 	 
 
