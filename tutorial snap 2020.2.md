@@ -27,12 +27,8 @@
 
 
 
-
-
-
-
-
-### Aprendendo condicionais com "Zorba, um cofrinho brasileiro"
+### "Zorba, um cofrinho brasileiro"
+#### Intro + condicionais
 
 1. [Video (1/6) - intro e contextualização (9min)](https://www.loom.com/share/a3ab16f6850f48198a2708f83096dca0) 
 2. [Vídeo (2/6) - decompondo e abstraindo (9min)](https://www.loom.com/share/54f3e1c7342f43be93902a2db81b67af)
@@ -40,6 +36,25 @@
 4. [Vídeo (4/6) - volume de notas (10min)](https://www.loom.com/share/52a5932e8ea740b2ad1248069390bfee)
 5. [Vídeo (5/6) - volume cueca (18min)](https://www.loom.com/share/3720d7c39cd648c6acd917cb30d4e4a5)
 6. [Video (6/6) - Snap! Condicionais (11min)](https://www.loom.com/share/efa2573a0de04d1ba15fa359e72a1596)
+
+
+Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "aplicações" com os dados levantados:
+
+#### Desenvolvendo diferentes soluções
+
+1. [Zorba 2.0 (1/10): Revisando e definindo problema](https://www.loom.com/share/2c590c24c5494b44b1a35fd6548be028) 
+> asdfasf
+2. sdfgsdfg
+3. sdfgsdfgd
+4. 
+
+
+
+
+
+
+
+
 
 
 
