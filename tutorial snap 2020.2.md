@@ -1,19 +1,19 @@
 1. [Introdução e Login (5min)](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19) 
 	> Cenário, atores e scripts.
 	Fazendo login, sign up.
-	intro sobre cenário, linguagem de "teatro",*
+	intro sobre cenário, linguagem de "teatro"
 	
 2. [Apresentando espaço e blocos do Snap! (5min) (Novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
 	
-	2.1. [2.1 - Início e fim de algoritmo (4:53min) (novo)](https://www.loom.com/share/d44a8b79621640749bbca68908b339a8)
+	2.1. [Início e fim de algoritmo (4:53min) (novo)](https://www.loom.com/share/d44a8b79621640749bbca68908b339a8)
 	> Mostra bloco de controle e como os blocos se conectam um ao outro.
 	
 	2.1b [Alterando atores e palco: personalizando o seu cenário (3min)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
 
 	2.2. [Entradas e saídas (5 min) (novo)](https://www.loom.com/share/543c91ed982345248dcb3852c8949478)  
-> 	bloco diga   
+	> bloco diga   
 	e bloco "pergunte";  
-	bloco cronometrobloco "zere cronômetro
+	bloco cronometrobloco "zere cronômetro  
 	
 	2.3. [Variáveis, declarando e atribuindo valores (12min) (novo)](https://www.loom.com/share/ed734c668ba743dd817b4158fc796182)
 	
