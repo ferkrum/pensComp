@@ -101,7 +101,7 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 
 
-
+Para 
 
 
 
