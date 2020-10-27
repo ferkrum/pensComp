@@ -89,6 +89,8 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 10. [Zorba 2.0 (10/10) - revisão e conclusão (17min)](https://www.loom.com/share/d40476f8ab224fafa361415145fc2499)
 	> Inserindo comentários no código; 
 	Testando o algoritmo.
+	Teste alterando alguns parâmetros do algoritmo: elasticidade da cueca = 50%, ao invés de 30%.  
+	Simulando a situação real conforme citado[ na reportagem](https://g1.globo.com/rr/roraima/noticia/2020/10/15/senador-tinha-r-33-mil-na-cueca-delegado-desconfiou-ao-ver-volume-retangular-na-parte-traseira.ghtml).
 	
 --
 	
