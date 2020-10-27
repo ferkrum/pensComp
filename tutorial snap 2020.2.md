@@ -1,4 +1,4 @@
-#Tutoriais de algoritmos usando Snap! (ed. 2020.2)
+# Tutoriais de algoritmos usando Snap! (ed. 2020.2)
 
 1. [Introdução e Login (5min)](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19) 
 	> Cenário, atores e scripts.
