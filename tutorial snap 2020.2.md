@@ -43,10 +43,26 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 #### Desenvolvendo diferentes soluções
 
 1. [Zorba 2.0 (1/10): Revisando e definindo problema](https://www.loom.com/share/2c590c24c5494b44b1a35fd6548be028) 
-> asdfasf
-2. sdfgsdfg
-3. sdfgsdfgd
-4. 
+2. [Zorba 2.0 (2/10): intro + enviando msgs entre atores](https://www.loom.com/share/5914ed1b3b8847cab6e8f7711cfe63a0)
+	> Alterando fundo de tela (palco);  
+	Salvando documento com outro nome;  
+	Mensagem boas vindas usuário;  
+	Bloco mude para fantasia, etc.	
+
+3. [Zorba 2.0 (3/10): esconder/mostrar ator, pausa programa, declara variaveis (11min)](https://www.loom.com/share/118a5305153643db95f84d0bb1925b42)
+	> Inicializando variáveis;  
+	esconder/mostrar ator;  
+	Declarando variáveis (prop100, prop200, prop50, tamanhoCueca, valorTotal)
+	
+4. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
+	> Como visualizar na tela os valores armazenados nas variáveis;  
+	Copiando e colando blocos;  
+	Testando blocos separadamente;  
+	Armazenando dados em variáveis;
+	Duplicando conjuntos de blocos.
+	
+5. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
+	
 
 
 
