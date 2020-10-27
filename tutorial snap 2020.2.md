@@ -1,3 +1,5 @@
+#Tutoriais de algoritmos usando Snap! (ed. 2020.2)
+
 1. [Introdução e Login (5min)](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19) 
 	> Cenário, atores e scripts.
 	Fazendo login, sign up.
@@ -25,9 +27,11 @@
 
 [2020.2/Pens. Comp. Revisão Primeiros passos Snap! + Um primeiro exercício](https://www.loom.com/share/daa17f9815074c95842c2fd8990cacda)
 
-
+--
 
 ### "Zorba, um cofrinho brasileiro"
+(*[link para toda playlist de vídeos](https://loom.com/share/folder/4c785844b71f4678bb731948ca79f514)*)
+
 #### Intro + condicionais
 
 1. [Video (1/6) - intro e contextualização (9min)](https://www.loom.com/share/a3ab16f6850f48198a2708f83096dca0) 
@@ -69,7 +73,27 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	Alterando nome de variáveis.
 	Calculando VolumeTotal das notas.
 	
-7. 
+7. [Zorba 2.0 (7/10) - compondo a expressão aritmética (12min)
+](https://www.loom.com/share/a9d730fb3b4841019a33299859f8a39f)
+	>  Compondo a expressão aritmética;  
+	Bloco "junte" para compôr frases incluindo conteúdo de variáveis.
+	
+8. [Zorba 2.0 (8/10) - arredondando valores para exibir na tela, resposta final em porcentagem (22min)](https://www.loom.com/share/1061df8d6673440cb34e01431de38ec5)
+	> Re-executando blocos;  
+	Arredondando valores  
+	!! Valor representado em porcentagem muito baixo: identificamos um erro! :-)
+	
+9. [Zorba 2.0 (9/10) - teste final, identificação e correção de um erro (12min)](https://www.loom.com/share/57bfb2413bb04c4caa3557189167f619)
+	> Identificamos um erro: confundimos o perímetro com o diâmetro da cintura.
+	
+10. [Zorba 2.0 (10/10) - revisão e conclusão (17min)](https://www.loom.com/share/d40476f8ab224fafa361415145fc2499)
+	> Inserindo comentários no código; 
+	Testando o algoritmo.
+	
+--
+	
+	 
+
 	 
 	
 
@@ -83,4 +107,4 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 
 
-atualizado em 27 out. 2020.
+atualizado em 27 out. 2020, por @ferkrum.
