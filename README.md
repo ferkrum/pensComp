@@ -93,8 +93,8 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	Simulando a situação real conforme citado[ na reportagem](https://g1.globo.com/rr/roraima/noticia/2020/10/15/senador-tinha-r-33-mil-na-cueca-delegado-desconfiou-ao-ver-volume-retangular-na-parte-traseira.ghtml).
 	
 <hr>
-	
-	
+
+**Para testar o algoritmo, [clique aqui](https://snap.berkeley.edu/project?user=ferkrum&project=Zorba%2C%20um%20cofrinho%20brasileiro).**
 
 
 
