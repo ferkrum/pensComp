@@ -40,10 +40,10 @@
 
 Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "aplicações" com os dados levantados:
 
-#### Desenvolvendo diferentes soluções
+#### Desenvolvendo soluções diversas
 
-1. [Zorba 2.0 (1/10): Revisando e definindo problema](https://www.loom.com/share/2c590c24c5494b44b1a35fd6548be028)
-2. [Zorba 2.0 (2/10): intro + enviando msgs entre atores](https://www.loom.com/share/5914ed1b3b8847cab6e8f7711cfe63a0)
+1. [Zorba 2.0 (1/10): Revisando e definindo problema (11min)](https://www.loom.com/share/2c590c24c5494b44b1a35fd6548be028)
+2. [Zorba 2.0 (2/10): intro + enviando msgs entre atores (14min)](https://www.loom.com/share/5914ed1b3b8847cab6e8f7711cfe63a0)
 	> Alterando fundo de tela (palco);  
 	Salvando documento com outro nome;  
 	Mensagem boas vindas usuário;  
@@ -53,14 +53,14 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	esconder/mostrar ator;  
 	Declarando variáveis (prop100, prop200, prop50, tamanhoCueca, valorTotal)
 	
-4. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
+4. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis (13min)](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
 	> Como visualizar na tela os valores armazenados nas variáveis;  
 	Copiando e colando blocos;  
 	Testando blocos separadamente;  
 	Armazenando dados em variáveis;
 	Duplicando conjuntos de blocos.
 	
-5. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
+5. [Zorba 2.0 (5/10): (14min)](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
 	
 
 
