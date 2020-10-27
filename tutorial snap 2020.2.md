@@ -5,7 +5,7 @@
 	
 2. [Snap! Vídeo 2 - Apresentando espaço e blocos do Snap! (5min) (Novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
 	
-  2.1. [Snap! Vídeo 2.1 - Início e fim de algoritmo (4:53min) (novo)](https://www.loom.com/share/d44a8b79621640749bbca68908b339a8)
+	2.1. [Snap! Vídeo 2.1 - Início e fim de algoritmo (4:53min) (novo)](https://www.loom.com/share/d44a8b79621640749bbca68908b339a8)
 > Mostra bloco de controle e como os blocos se conectam um ao outro
 
 2.1b [Vídeo 2.1b - Alterando atores e palco: personalizando o seu cenário (3min)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
