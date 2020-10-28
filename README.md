@@ -5,12 +5,12 @@
 	Fazendo login, sign up.
 	intro sobre cenário, linguagem de "teatro"
 	
-2. [Apresentando espaço e blocos do Snap! (5min) (Novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
+2. [Apresentando espaço e blocos do Snap! (5min) (novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
 	
 	2.1. [Início e fim de algoritmo (4:53min) (novo)](https://www.loom.com/share/d44a8b79621640749bbca68908b339a8)
 	> Mostra bloco de controle e como os blocos se conectam um ao outro.
 	
-	2.1b [Alterando atores e palco: personalizando o seu cenário (3min)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
+	2.1b [Alterando atores e palco: personalizando o seu cenário (3min) (novo)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
 
 	2.2. [Entradas e saídas (5 min) (novo)](https://www.loom.com/share/543c91ed982345248dcb3852c8949478)  
 	> bloco diga   
@@ -56,41 +56,33 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	> Inicializando variáveis;  
 	esconder/mostrar ator;  
 	Declarando variáveis (prop100, prop200, prop50, tamanhoCueca, valorTotal)
-	
 4. [Zorba 2.0 (4/10): entrada de dados, armazena variáveis (13min)](https://www.loom.com/share/f47154759e3848cf858512cace85d862)
 	> Como visualizar na tela os valores armazenados nas variáveis;  
 	Copiando e colando blocos;  
 	Testando blocos separadamente;  
 	Armazenando dados em variáveis;
 	Duplicando conjuntos de blocos.
-	
 5. [Zorba 2.0 (5/10): calculando volume das notas (14min)](https://www.loom.com/share/6a2eaec911a6455a9a45896c3eea10de)
 	> Adicionando "quebra" no diálogo c/ bloco "mova";
 	Calculando volume de cada nota;
-	
 6. [Zorba 2.0 (6/10): obtendo fórmula de VolumeTotal de notas (12min)](https://www.loom.com/share/a2c85bd1f33e48ca8e2ad9256d6515c8)
 	> Revisando os volumes de notas.
 	Alterando nome de variáveis.
 	Calculando VolumeTotal das notas.
-	
-7. [Zorba 2.0 (7/10) - compondo a expressão aritmética (12min)
-](https://www.loom.com/share/a9d730fb3b4841019a33299859f8a39f)
+7. [Zorba 2.0 (7/10) - compondo a expressão aritmética (12min)](https://www.loom.com/share/a9d730fb3b4841019a33299859f8a39f)
 	>  Compondo a expressão aritmética;  
 	Bloco "junte" para compôr frases incluindo conteúdo de variáveis.
-	
 8. [Zorba 2.0 (8/10) - arredondando valores para exibir na tela, resposta final em porcentagem (22min)](https://www.loom.com/share/1061df8d6673440cb34e01431de38ec5)
 	> Re-executando blocos;  
 	Arredondando valores  
 	!! Valor representado em porcentagem muito baixo: identificamos um erro! :-)
-	
 9. [Zorba 2.0 (9/10) - teste final, identificação e correção de um erro (12min)](https://www.loom.com/share/57bfb2413bb04c4caa3557189167f619)
 	> Identificamos um erro: confundimos o perímetro com o diâmetro da cintura.
-	
 10. [Zorba 2.0 (10/10) - revisão e conclusão (17min)](https://www.loom.com/share/d40476f8ab224fafa361415145fc2499)
 	> Inserindo comentários no código; 
 	Testando o algoritmo.
 	Teste alterando alguns parâmetros do algoritmo: elasticidade da cueca = 50%, ao invés de 30%.  
-	Simulando a situação real conforme citado[ na reportagem](https://g1.globo.com/rr/roraima/noticia/2020/10/15/senador-tinha-r-33-mil-na-cueca-delegado-desconfiou-ao-ver-volume-retangular-na-parte-traseira.ghtml).
+	Simulando a situação real conforme citado [na reportagem](https://g1.globo.com/rr/roraima/noticia/2020/10/15/senador-tinha-r-33-mil-na-cueca-delegado-desconfiou-ao-ver-volume-retangular-na-parte-traseira.ghtml).
 	
 <hr>
 
