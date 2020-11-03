@@ -90,6 +90,19 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 
 
+4. [Números randômicos (10min)](https://www.loom.com/share/e0ccf8a10980484290ad70dbceb5e2ff).  
+	>  blocos Aparência/mostrar esconder
+
+5. [Bloco "Tell" + execute atomicamente (8min)](https://www.loom.com/share/f385752f8769482fac749034abb1783e)
+	> Enviando mensagens entre atores diferentes.
+	
+6. [Snap! - Adicionando bloco repita X vezes (12min)](https://www.loom.com/share/422154bc587f43778358fffdb0f9a1f1)
+	> 
+ 
+7. [Integrando Randômicos + Condicionais + bloco repita (17min)](https://www.loom.com/share/7cb847e890694ef8869fe196bbd541d6)
+
+8. [Estruturas de repetição: "repita", "for", "repita até que" (16min)](https://www.loom.com/share/9907e37762f04f6fada544be64109a57)
+
 
 
 
