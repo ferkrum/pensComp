@@ -13,9 +13,9 @@
 	2.1b [Alterando atores e palco: personalizando o seu cenário (3min) (novo)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
 
 	2.2. [Entradas e saídas (5 min) (novo)](https://www.loom.com/share/543c91ed982345248dcb3852c8949478)  
-	> bloco diga   
-	e bloco "pergunte";  
-	bloco cronometrobloco "zere cronômetro  
+	> bloco diga   e bloco "pergunte";  
+	bloco cronometro;  
+	bloco "zere cronômetro  
 	
 	2.3. [Variáveis, declarando e atribuindo valores (12min) (novo)](https://www.loom.com/share/ed734c668ba743dd817b4158fc796182)
 	
