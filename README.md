@@ -95,13 +95,13 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 
 5. [Números randômicos (10min)](https://www.loom.com/share/e0ccf8a10980484290ad70dbceb5e2ff).  
-	> Adicionando elementos aleatórios aos programas. 
+	> Adicionando elementos aleatórios aos programas  
 	> blocos Aparência/mostrar esconder
 
 6. [Bloco "Tell" - enviando mensagens a outros atores (8min)](https://www.loom.com/share/f385752f8769482fac749034abb1783e)
 	> Enviando mensagens entre atores diferentes.
 	
-7. [Snap! - Adicionando bloco repita X vezes (12min)](https://www.loom.com/share/422154bc587f43778358fffdb0f9a1f1)
+7. [Snap! - Adicionando bloco repita X vezes + adicionando fala randômica aos personagens (12min)](https://www.loom.com/share/422154bc587f43778358fffdb0f9a1f1)
 	> 
  
 8. [Integrando Randômicos + Condicionais + bloco repita (17min)](https://www.loom.com/share/7cb847e890694ef8869fe196bbd541d6)
