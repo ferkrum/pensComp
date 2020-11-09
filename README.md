@@ -121,4 +121,4 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 
 
-atualizado em 4 nov. 2020, por @ferkrum.
+atualizado em 9 nov. 2020, por @ferkrum.
