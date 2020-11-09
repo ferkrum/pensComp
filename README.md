@@ -108,9 +108,12 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 9. [Estruturas de repetição: "repita", "for", "repita até que" (16min)](https://www.loom.com/share/9907e37762f04f6fada544be64109a57)
 
-10. [Criando blocos (Abstrações) (pt 1/2)(15min)](https://www.loom.com/share/29a76107864b499ba8aab865eb9d163c) 
+10. [Criando blocos (abstrações) (pt 1/2)(15min)](https://www.loom.com/share/29a76107864b499ba8aab865eb9d163c) 
 
-11. [Criando blocos (Abstrações) - adicionando parâmetros (pt 2/2) (15min)](https://www.loom.com/share/c7f382a344c44eccb105301e13eb1a85?sharedAppSource=personal_library)
+11. [Criando blocos (abstrações) - adicionando parâmetros (pt 2/2) (7min)](https://www.loom.com/share/c7f382a344c44eccb105301e13eb1a85?sharedAppSource=personal_library)
+
+
+
 
 
 
