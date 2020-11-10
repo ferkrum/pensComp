@@ -126,4 +126,4 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 13. [Snap + Canvas do Pensamento Computacional (24min)](https://www.loom.com/share/22a93983e67547aea045e2335df7c5e2)
 
-atualizado em 9 nov. 2020, por @ferkrum.
+atualizado em 10 nov. 2020, por @ferkrum.
