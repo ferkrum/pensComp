@@ -116,9 +116,12 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 11. [Criando blocos (abstrações) - adicionando parâmetros (pt 2/2) (7min)](https://www.loom.com/share/c7f382a344c44eccb105301e13eb1a85?sharedAppSource=personal_library)
 
+12. [Listas: criando listas (6min)](https://www.loom.com/share/e33aad764e7f4e9096bf0b40d44e970a)
 
+13. [Listas: acessando elementos (5min)](https://www.loom.com/share/d9e272d981b24dd6bf74da2bcaaaf132)
 
+14. [Listas: criando "tabelas" ou "listas de listas" (10min)](https://www.loom.com/share/0901cb40a5304584a04c02a59657fbec)
 
-
+12. [Listas: acessando conteúdo das tabelas (6min)](https://www.loom.com/share/e2165fb32b5f44978b947ab91d744db5)
 
 atualizado em 9 nov. 2020, por @ferkrum.
