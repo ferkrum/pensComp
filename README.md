@@ -126,4 +126,11 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 
 13. [Snap + Canvas do Pensamento Computacional (24min)](https://www.loom.com/share/22a93983e67547aea045e2335df7c5e2)
 
+14. [Condicionais e Operadores booleanos: criando combinações de condicionais (20 min)](https://www.loom.com/share/9198750219bd4bf082b9df8294771377)
+	> Criando combinações de condicionais para os condicionais. 
+	> Ex1: SE numero > 10 E numero < 15, então ...
+	> Ex2: SE numero < 2 ou numero2 = 20 então ... 
+	> Ex3: SE NAO(numero = 10) então ...  ou seja, SE numero diferente de 10, ou SE numero != 10.
+	
+
 atualizado em 10 nov. 2020, por @ferkrum.
