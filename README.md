@@ -133,4 +133,4 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	> Ex3: SE NAO(numero = 10) então ...  ou seja, SE numero diferente de 10, ou SE numero != 10.
 	
 
-atualizado em 24 de maio de 2020, por @ferkrum.
+Atualizado em 24 de maio de 2021, por @ferkrum.
