@@ -1,4 +1,4 @@
-# Tutoriais de algoritmos usando Snap! (ed. 2020.2)
+# Tutoriais de algoritmos usando Snap! (ed. 2021.1)
 
 1. [Introdução e Login (5min)](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19) 
 	> Cenário, atores e scripts.
@@ -133,4 +133,4 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	> Ex3: SE NAO(numero = 10) então ...  ou seja, SE numero diferente de 10, ou SE numero != 10.
 	
 
-atualizado em 10 nov. 2020, por @ferkrum.
+atualizado em 24 de maio de 2020, por @ferkrum.
