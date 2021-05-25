@@ -62,14 +62,14 @@ Após verificar o uso dos condicionais no vídeo anterior, vamos criar outras "a
 	> Como visualizar na tela os valores armazenados nas variáveis;  
 	Copiando e colando blocos;  
 	Testando blocos separadamente;  
-	Armazenando dados em variáveis;
+	Armazenando dados em variáveis;  
 	Duplicando conjuntos de blocos.
 5. [Zorba 2.0 (5/10): calculando volume das notas (14min)](https://www.loom.com/share/6a2eaec911a6455a9a45896c3eea10de)
-	> Adicionando "quebra" no diálogo c/ bloco "mova";
+	> Adicionando "quebra" no diálogo c/ bloco "mova";  
 	Calculando volume de cada nota;
 6. [Zorba 2.0 (6/10): obtendo fórmula de VolumeTotal de notas (12min)](https://www.loom.com/share/a2c85bd1f33e48ca8e2ad9256d6515c8)
-	> Revisando os volumes de notas.
-	Alterando nome de variáveis.
+	> Revisando os volumes de notas.  
+	Alterando nome de variáveis.  
 	Calculando VolumeTotal das notas.
 7. [Zorba 2.0 (7/10) - compondo a expressão aritmética (12min)](https://www.loom.com/share/a9d730fb3b4841019a33299859f8a39f)
 	>  Compondo a expressão aritmética;  
